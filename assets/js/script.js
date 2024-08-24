@@ -66,8 +66,7 @@ var typed = new Typed(".typing-text", {
   strings: [
     "frontend development",
     "backend development",
-    "Full Stack Web Development",
-    "Java Developer",
+    "Full Stack Web Development-MERN ",
   ],
   loop: true,
   typeSpeed: 60,
